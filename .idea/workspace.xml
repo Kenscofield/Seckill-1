@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="48100bcc-a7fd-4e2a-9407-c8c3493fdcc2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/miaosha_idea.iml" beforeDir="false" afterPath="$PROJECT_DIR$/miaosha_idea.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sql/goods.sql" beforeDir="false" afterPath="$PROJECT_DIR$/sql/goods.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sql/miaosha_goods.sql" beforeDir="false" afterPath="$PROJECT_DIR$/sql/miaosha_goods.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sql/miaosha_order.sql" beforeDir="false" afterPath="$PROJECT_DIR$/sql/miaosha_order.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sql/miaosha_user.sql" beforeDir="false" afterPath="$PROJECT_DIR$/sql/miaosha_user.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sql/order_info.sql" beforeDir="false" afterPath="$PROJECT_DIR$/sql/order_info.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sql/t_user" beforeDir="false" afterPath="$PROJECT_DIR$/sql/t_user" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/application.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$MAVEN_REPOSITORY$/redis/clients/jedis/2.7.3/jedis-2.7.3.jar!/redis/clients/jedis/exceptions/JedisDataException.class" root0="FORCE_HIGHLIGHTING" />
+    <setting file="jar://$MAVEN_REPOSITORY$/redis/clients/jedis/2.7.3/jedis-2.7.3.jar!/redis/clients/jedis/Protocol.class" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectId" id="1mpkA0xUkaQdHJdcRBRNZEPhBpc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="RunConfigurationTargetLRU" value="b1a74e78-118d-496c-8687-f28ddeae85cc&#10;803a8b45-40c2-47fd-b3d2-f5437a6488d8" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="ReaderModeSettings">
+    <option name="enabled" value="false" />
+  </component>
+  <component name="RunManager" selected="Spring Boot.MainApplication">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="goods.sql" type="DatabaseScript" editBeforeRun="true" temporary="true" nameIsGenerated="true">
+      <script-file value="$PROJECT_DIR$/sql/goods.sql" />
+      <script-mode>FILE</script-mode>
+      <data-source id="b1a74e78-118d-496c-8687-f28ddeae85cc" />
+      <data-source id="803a8b45-40c2-47fd-b3d2-f5437a6488d8" />
+      <data-source id="803a8b45-40c2-47fd-b3d2-f5437a6488d8" />
+      <data-source id="803a8b45-40c2-47fd-b3d2-f5437a6488d8" />
+      <method v="2" />
+    </configuration>
+    <configuration name="goods_detail.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Seckill-1/miaosha_idea/templates/goods_detail.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="MainApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="miaosha_idea" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ljs.miaosha.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ljs.miaosha.MainApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.MainApplication" />
+        <item itemvalue="JavaScript Debug.goods_detail.html" />
+        <item itemvalue="Database Script.goods.sql" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="48100bcc-a7fd-4e2a-9407-c8c3493fdcc2" name="Default Changelist" comment="" />
+      <created>1610197773847</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610197773847</updated>
+      <workItem from="1610197775641" duration="1612000" />
+      <workItem from="1610242521744" duration="6273000" />
+      <workItem from="1610283367265" duration="8040000" />
+      <workItem from="1610533268222" duration="9927000" />
+      <workItem from="1610612382585" duration="5051000" />
+      <workItem from="1610719407318" duration="643000" />
+      <workItem from="1610762883225" duration="1397000" />
+      <workItem from="1610765576229" duration="476000" />
+      <workItem from="1610766066169" duration="2777000" />
+      <workItem from="1610779810044" duration="216000" />
+      <workItem from="1610780092043" duration="398000" />
+      <workItem from="1610781037426" duration="2377000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="redis.clients.jedis.exceptions.JedisDataException" package="redis.clients.jedis.exceptions" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="org.springframework.amqp.AmqpConnectException" package="org.springframework.amqp" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="SpringBootApplicationConfigurationType">
+        <watch expression="message" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

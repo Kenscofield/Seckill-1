@@ -10,7 +10,7 @@ Target Server Type    : MYSQL
 Target Server Version : 50558
 File Encoding         : 65001
 
-Date: 2019-05-30 14:40:38
+Date: 2020-12-12 14:40:38
 */
 
 SET FOREIGN_KEY_CHECKS=0;
@@ -32,9 +32,9 @@ CREATE TABLE `miaosha_goods` (
 -- ----------------------------
 -- Records of miaosha_goods
 -- ----------------------------
-INSERT INTO `miaosha_goods` VALUES ('1', '1', '0.01', '9', '2019-05-28 11:10:12', '2019-05-31 15:50:59');
-INSERT INTO `miaosha_goods` VALUES ('2', '2', '0.01', '10', '2019-05-28 11:10:12', '2019-05-28 15:51:31');
-INSERT INTO `miaosha_goods` VALUES ('3', '3', '0.09', '5', '2019-05-30 11:10:12', '2019-05-30 19:50:15');
-INSERT INTO `miaosha_goods` VALUES ('4', '4', '0.04', '4', '2019-05-22 19:52:54', '2019-05-30 19:52:58');
-INSERT INTO `miaosha_goods` VALUES ('5', '5', '1.00', '10', '2019-05-25 19:58:48', '2019-05-30 19:58:51');
-INSERT INTO `miaosha_goods` VALUES ('6', '6', '0.07', '5', '2019-05-29 19:59:19', '2019-05-30 19:59:26');
+INSERT INTO `miaosha_goods` VALUES ('1', '1', '0.01', '9', '2021-01-17 11:10:12', '2021-01-17 11:15:00');
+INSERT INTO `miaosha_goods` VALUES ('2', '2', '0.01', '10', '2021-01-17 11:10:12', '2021-01-17 11:15:00');
+INSERT INTO `miaosha_goods` VALUES ('3', '3', '0.09', '5', '2021-01-17 11:10:12', '2021-01-17 11:15:00');
+INSERT INTO `miaosha_goods` VALUES ('4', '4', '0.04', '4', '2021-01-17 11:10:12', '2021-01-17 11:15:00');
+INSERT INTO `miaosha_goods` VALUES ('5', '5', '1.00', '10', '2021-01-17 11:10:12', '2021-01-17 11:15:00');
+INSERT INTO `miaosha_goods` VALUES ('6', '6', '0.07', '5', '2021-01-17 11:10:12', '2021-01-17 11:15:00');

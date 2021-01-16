@@ -10,7 +10,7 @@ Target Server Type    : MYSQL
 Target Server Version : 50558
 File Encoding         : 65001
 
-Date: 2019-05-30 14:41:06
+Date: 2020-12-12 14:40:45
 */
 
 SET FOREIGN_KEY_CHECKS=0;
@@ -37,5 +37,5 @@ CREATE TABLE `order_info` (
 -- ----------------------------
 -- Records of order_info
 -- ----------------------------
-INSERT INTO `order_info` VALUES ('335', '15008491407', '4', null, null, '1', '0.04', '1', '0', '2019-05-28 10:54:56', null);
-INSERT INTO `order_info` VALUES ('336', '15008491407', '1', null, null, '1', '0.01', '1', '0', '2019-05-28 11:37:25', null);
+INSERT INTO `order_info` VALUES ('335', '15008491407', '4', null, null, '1', '0.04', '1', '0', '2020-12-28 10:54:56', null);
+INSERT INTO `order_info` VALUES ('336', '15008491407', '1', null, null, '1', '0.01', '1', '0', '2020-12-28 11:37:25', null);
